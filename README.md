@@ -1,5 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Sysvkt7d8UAY9bkLVwXdw81gyJloBRKw#scrollTo=1jNvlQ_QzAD6)
-**Architecting Scalable Hyperparameter Optimization for High-Performance Workloads.**
+
+#Architecting Scalable Hyperparameter Optimization for High-Performance Workloads.
 
 # Distributed-ml-RAY-architect
 Distributed machine learning pipeline using Ray for high-performance hyperparameter tuning (HPO) and task orchestration, optimized for scalable XGBoost workflows.
